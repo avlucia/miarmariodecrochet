@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenido a Mi armario de Crochet</title>
+</head>
+<body>
+
+    <header>
+        <h1>Mi armario de Crochet</h1>
+        <p>Explora el fascinante mundo de Mi armario de Crochet. Desde consejos útiles hasta inspiración y proyectos emocionantes, aquí encontrarás todo lo que necesitas para tejer tus prendas favoritas.</p>
+    </header>
+
+    <section>
+        <h2>¿Qué Puedes Encontrar Aquí?</h2>
+        <p>Esto es tu destino para aprender a tejer o mejorar tus prendas. Descubre artículos informativos, tutoriales paso a paso y comunidades apasionadas que comparten tu interés por el crochet.</p>
+    </section>
+
+    <section>
+        <h2>Últimas Publicaciones</h2>
+        <p>Sumérgete en nuestras últimas publicaciones y mantente al día con las tendencias y novedades de [Tema de Tu Sitio]. Desde [Detalles de Contenido] hasta [Otro Tipo de Contenido], tenemos algo para todos.</p>
+    </section>
+
+    <section>
+        <h2>Únete a Nuestra Comunidad</h2>
+        <p>Conéctate con otros entusiastas de [Tema de Tu Sitio]. Únete a la conversación, comparte tus experiencias y descubre nuevas ideas. Juntos, construimos una comunidad dedicada a [Misión de Tu Sitio].</p>
+    </section>
+
+    <!-- Otro contenido de tu página va aquí -->
+
+</body>
+</html>
